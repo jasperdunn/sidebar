@@ -23,6 +23,7 @@ const Aside = styled.aside`
   background-color: #0b0b0e;
   width: 240px;
   height: 100vh;
+  overflow-y: auto;
   padding: 16px 12px;
   display: flex;
   flex-direction: column;
