@@ -1,5 +1,7 @@
 # Sidebar
 
+https://sidebar.jasperdunn.com
+
 ## Commands
 
 ### Install
